@@ -1,0 +1,129 @@
+text,intent
+
+open chrome,open_browser
+launch chrome,open_browser
+start chrome,open_browser
+open google chrome,open_browser
+run chrome,open_browser
+chrome open karo,open_browser
+browser open karo,open_browser
+start browser,open_browser
+
+close chrome,close_app
+close notepad,close_app
+close calculator,close_app
+terminate chrome,close_app
+shutdown chrome,close_app
+exit chrome,close_app
+close paint,close_app
+
+shutdown system,shutdown_pc
+turn off computer,shutdown_pc
+shutdown laptop,shutdown_pc
+power off system,shutdown_pc
+shut down computer,shutdown_pc
+computer band karo,shutdown_pc
+
+restart computer,restart_pc
+restart system,restart_pc
+reboot laptop,restart_pc
+restart laptop,restart_pc
+system restart karo,restart_pc
+
+open ai mode,ai_mode
+start ai mode,ai_mode
+switch to ai mode,ai_mode
+activate ai mode,ai_mode
+enter ai mode,ai_mode
+ai mode chalu karo,ai_mode
+
+exit ai mode,exit_ai
+close ai mode,exit_ai
+ai mode band karo,exit_ai
+stop ai mode,exit_ai
+
+system mode open karo,system_mode
+switch to system mode,system_mode
+activate system mode,system_mode
+enter system mode,system_mode
+
+recommend music,music_recommend
+suggest music,music_recommend
+play music,music_recommend
+play song,music_recommend
+play songs,music_recommend
+music recommendation,music_recommend
+play mood music,music_recommend
+suggest songs,music_recommend
+
+open notepad,open_app
+open calculator,open_app
+launch notepad,open_app
+start calculator,open_app
+open paint,open_app
+open vs code,open_app
+run notepad,open_app
+start vscode,open_app
+open visual studio code,open_app
+
+assistant close karo,close_assistant
+close assistant,close_assistant
+nova close,close_assistant
+nova band karo,close_assistant
+nova shut down,close_assistant
+stop assistant,close_assistant
+
+take screenshot,screenshot
+capture screenshot,screenshot
+take screen capture,screenshot
+screen shot lo,screenshot
+screenshot lena,screenshot
+
+open documents folder,open_folder
+open downloads folder,open_folder
+open desktop folder,open_folder
+open my downloads,open_folder
+open my documents,open_folder
+
+lock system,lock_system
+lock computer,lock_system
+system lock karo,lock_system
+computer lock karo,lock_system
+
+volume up,volume_up
+increase volume,volume_up
+raise volume,volume_up
+volume badhao,volume_up
+
+volume down,volume_down
+decrease volume,volume_down
+lower volume,volume_down
+volume kam karo,volume_down
+
+mute volume,mute
+volume mute karo,mute
+mute system,mute
+
+search google python,google_search
+search google machine learning,google_search
+google search python tutorial,google_search
+search internet python,google_search
+
+search file report,search_file
+find file report,search_file
+locate file report,search_file
+open file report,search_file
+search report document,search_file
+find report pdf,search_file
+
+Brightness up karo,brightness_up
+Brightness down karo,brightness_down
+Brightness badhao,brightness_up
+Brightness kam karo,brightness_down
+Brightness increase karo,brightness_up
+Brightness decrease karo,brightness_down
+
+Wifi on karo,wifi_on
+Wifi off karo,wifi_off
+Switch on wifi,wifi_on
+Switch off wifi,wifi_off
